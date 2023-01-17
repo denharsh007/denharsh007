@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-gamma-two-55.vercel.app/api?username=denharsh007&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-omega-kohl-54.vercel.app/api?username=denharsh007&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-gamma-two-55.vercel.app/api/top-langs/?username=denharsh007&count_private=true&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-kohl-54.vercel.app/api/top-langs/?username=denharsh007&count_private=true&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
