@@ -1,5 +1,5 @@
 <!--
-**denharsh007/denharsh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tmrsich/tmrsich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/tmrsich/github-readme-stats">
   <img align="center" src="https://github-readme-stats-tmrsich.vercel.app/api/pin/username=tmrsich&count_private=true&theme=algolia&show_icons=true" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats-tmrsich.vercel.app/api/pin/?username=tmrsich&count_private=true&theme=algolia&langs_count=50" />
 </a>
