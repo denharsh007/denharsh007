@@ -1,5 +1,5 @@
 <!-- My GitHub stats -->
-<img margin="0 auto" align="center" src="https://github-readme-stats-tmrsich.vercel.app/api?username=tmrsich&theme=algolia&show_icons=true"/>
+<img style="margin: 0 auto; align: center;" src="https://github-readme-stats-tmrsich.vercel.app/api?username=tmrsich&theme=algolia&show_icons=true"/>
 
 <!-- My top languages -->
-<img align="center" src="https://github-readme-stats-tmrsich.vercel.app/api/top-langs/?username=tmrsich&theme=algolia&count_private=true&langs_count=50&layout=compact"/>
+<img style="margin: 0 auto; align: center;" src="https://github-readme-stats-tmrsich.vercel.app/api/top-langs/?username=tmrsich&theme=algolia&count_private=true&langs_count=50&layout=compact"/>
