@@ -1,6 +1,6 @@
 <!-- My GitHub stats -->
 <a href="https://github.com/tmrsich">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-tmrsich.vercel.app/api?username=tmrsich&theme=algolia&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats-git-master-tmrsich.vercel.app/api?username=tmrsich&theme=algolia&count_private=false"/>
 </a>
 <!-- My top languages -->
 <a href="https://github.com/tmrsich">
