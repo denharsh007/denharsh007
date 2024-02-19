@@ -1,5 +1,9 @@
 <!-- My GitHub stats -->
-<img src="https://github-readme-stats-tmrsich.vercel.app/api?username=tmrsich&theme=algolia&show_icons=true&count_private=true"/>
+<a href="https://github.com/tmrsich">
+  <img height=200 align="center" src="https://github-readme-stats-five-theta-70.vercel.app/api?username=tmrsich&theme=algolia&count_private=true"/>
+</a>
 
 <!-- My top languages -->
-<img src="https://github-readme-stats-tmrsich.vercel.app/api/top-langs/?username=tmrsich&theme=algolia&count_private=true&langs_count=50&layout=compact&card_width=320"/>
+<a href="https://github.com/tmrsich">
+  <img height=200 align="center" src="https://github-readme-stats-five-theta-70.vercel.app/api/top-langs?username=tmrsich&theme=algolia&layout=compact&langs_count=6&card_width=320"/>
+</a>
